@@ -1,0 +1,2 @@
+# fast-notes
+wasm project
